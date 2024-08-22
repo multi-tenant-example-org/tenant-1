@@ -6,7 +6,7 @@ metadata:
 spec:
   destination:
     server: https://kubernetes.default.svc
-  project: sample-app
+  project: tenant-1
   source:
     repoURL: https://github.com/multi-tenant-example-org/tenant-1.git
     targetRevision: HEAD
